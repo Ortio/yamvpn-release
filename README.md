@@ -1,8 +1,8 @@
   # YamVPN — Official Releases                                                                                             
                                                                                                                            
   [![Latest                                                                                                                
-  Release](https://img.shields.io/github/v/release/ortio/yamvpn-releases?label=latest&color=blue)](../../releases/latest) 
-  [![Downloads](https://img.shields.io/github/downloads/ortio/yamvpn-releases/total?color=success)](../../releases)       
+  Release](https://img.shields.io/github/v/release/Ortio/yamvpn-releases?label=latest&color=blue)](../../releases/latest) 
+  [![Downloads](https://img.shields.io/github/downloads/Ortio/yamvpn-releases/total?color=success)](../../releases)       
                                                                                                                            
   Official APK releases of the YamVPN Android application.                                                                 
                                                                                                                            
